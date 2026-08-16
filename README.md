@@ -1,4 +1,4 @@
-# CS6370 — Information Retrieval on the Cranfield Collection
+# Hybrid Information Retrieval using LSA and BM25
 
 **Improving a TF–IDF Search Engine with LSA, BM25, and a BM25+LSA Hybrid**
 
